@@ -1,0 +1,19 @@
+h1 {
+	color: red;
+	font-family:  Helvetica;
+	font-size: 62px;
+}
+
+body {
+	background-color: lightgoldenrodyellow;
+}
+
+h3 {
+	text-align: center;
+}
+
+ul{
+	text-align:  left;
+	width:  150px;
+	margin:  0px auto 0px auto;
+}
